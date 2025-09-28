@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain`](https://www.npmjs.com/package/create-onchain).
 
 
@@ -37,3 +38,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 To learn more about OnchainKit, see our [documentation](https://docs.base.org/onchainkit).
 
 To learn more about Next.js, see the [Next.js documentation](https://nextjs.org/docs).
+=======
+# baseminikit-app
+>>>>>>> f22a996257830ba0184f4e006870687d280b48d6
